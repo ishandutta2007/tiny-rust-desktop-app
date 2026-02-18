@@ -12,7 +12,7 @@ impl Render for HelloWorld {
             .items_center()
             .text_color(rgb(0xffffff))
             .text_xl()
-            .child("Hello, Sublime-rust!")
+            .child("Hello, GPUI!")
     }
 }
 
